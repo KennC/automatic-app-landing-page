@@ -10,7 +10,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version 2.0**
+# **Version 1.0.6**
 此版本為最新版本，功能更為簡單易用
 
 #### What's New
