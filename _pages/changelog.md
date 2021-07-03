@@ -15,8 +15,7 @@ include_in_header: true
 
 #### What's New
 - 新增閃退報吿紀錄，增加未來穩定性
-- [Privacy Policy]([/privacypolicy](https://www.privacypolicies.com/privacy/view/2faf0046e44cabcb8ea15584eceee106))
-
+  
 #### Bug Fixes
 - 修正圖片緩慢問題
 - 修正 iPad 點擊分享會閃退的問題
